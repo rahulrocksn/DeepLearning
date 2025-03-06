@@ -1,0 +1,42 @@
+The model has:
+Linear(in_features=784, out_features=200, bias=True)
+Linear(in_features=200, out_features=2, bias=True)
+
+
+
+  1 Accept 0.472352
+  2 Accept 0.266508
+  3 Accept 0.360745
+  4 Accept 0.490947
+  5 Accept 0.598843
+  6 Accept 0.651547
+  7 Accept 0.686143
+  8 Accept 0.802622
+  9 Accept 0.934663
+ 10 Accept 0.993113
+--- ------
+- Accept%: 100.0%
+  1 Accept 0.116256
+  2 Accept 0.159247
+  3 Accept 0.166390
+  4 Accept 0.196460
+  5 Accept 0.452304
+  6 Accept 0.313353
+  7 Accept 1.038205
+  8 Accept 1.629226
+  9 Accept 1.073853
+ 10 Accept 0.678401
+--- ------
+- Accept%: 100.0%
+Expected Calibration Error:  0.007775647100061178
+Expected Calibration Error over threshold 50.0\%:  0.007775647100061178
+Expected Calibration Error:  0.0038432693108916283
+Expected Calibration Error over threshold 50.0\%:  0.0038432693108916283
+Expected Calibration Error:  0.010735466144979
+Expected Calibration Error over threshold 50.0\%:  0.010735466144979
+Expected Calibration Error:  0.024890035390853882
+Expected Calibration Error over threshold 50.0\%:  0.024890035390853882
+Expected Calibration Error:  0.009508257731795311
+Expected Calibration Error over threshold 50.0\%:  0.009508257731795311
+Expected Calibration Error:  0.017010342329740524
+Expected Calibration Error over threshold 50.0\%:  0.017010342329740524

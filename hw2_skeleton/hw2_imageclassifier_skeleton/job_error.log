@@ -1,0 +1,2 @@
+/var/spool/slurm/job8099937/slurm_script: line 14: /home/rnahar/Desktop/hw2_skeleton/hw2_imageclassifier_skeleton: Is a directory
+slurmstepd: error: *** JOB 8099937 ON gilbreth-g008 CANCELLED AT 2025-03-01T20:46:38 DUE TO TIME LIMIT ***
